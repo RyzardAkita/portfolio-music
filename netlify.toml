@@ -1,4 +1,0 @@
-[[headers]]
-  for = "/*.mp3"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
